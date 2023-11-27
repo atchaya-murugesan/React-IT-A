@@ -1,0 +1,49 @@
+.App {
+    text-align: left;
+  }
+  body{
+    background-image: url('https://img.freepik.com/free-photo/makeup-cosmetic-beauty-products-pink-background_23-2148113421.jpg?w=996&t=st=1700498037~exp=1700498637~hmac=053b892e6fed2a190d7a5571961e884400f636eebe28f96bd80dc1a636f8960d');
+    /* background-repeat: no-repeat;
+    background: size 100%; */
+    background-size: cover;
+    text-align: left;
+  }
+  .login{
+    background-image: url('https://img.freepik.com/free-photo/makeup-cosmetic-beauty-products-pink-background_23-2148113421.jpg?w=996&t=st=1700498037~exp=1700498637~hmac=053b892e6fed2a190d7a5571961e884400f636eebe28f96bd80dc1a636f8960d');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    text-align: center;
+  }
+  .b{
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+    color: rgb(165, 21, 187)75, 196, 196;
+  }
+  
+  .App-logo {
+    text-align: center;
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-link {
+    text-align: left;
+    color: #9c27b0;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }

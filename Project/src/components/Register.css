@@ -1,0 +1,23 @@
+.REG
+{
+  font-family: Arial, sans-serif;
+padding: 60px;
+border-radius: 5px;
+box-shadow: 1px 1px 40px rgba(0, 0, 0, 0.8);
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-image: url('https://img.freepik.com/free-photo/makeup-cosmetic-beauty-products-pink-background_23-2148113421.jpg?w=996&t=st=1700498037~exp=1700498637~hmac=053b892e6fed2a190d7a5571961e884400f636eebe28f96bd80dc1a636f8960d');
+
+background-repeat:no-repeat;
+background-size: cover;
+align-items: center;
+
+}
+.sy{
+  padding: 60px;
+border-radius: 20px;
+box-shadow: 1px 1px 40px rgba(0, 0, 0, 0.8);
+backdrop-filter: blur(70px); 
+}
